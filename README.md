@@ -69,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ![html](https://github.com/shrutidebnath09/Codepeneditor/assets/129511412/11911917-0a79-4f06-8dfc-8626f1a06ddd)
 
+![css](https://github.com/shrutidebnath09/Codepeneditor/assets/129511412/2df55aef-4154-467f-9604-f6108aaafbd6)
+
+
